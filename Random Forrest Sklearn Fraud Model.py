@@ -4,7 +4,7 @@ Created on Tue Mar 19 12:54:52 2019
 
 @author: snarayanaswamy
 
-Build a RandomForest model on TEMPOE dataset with an objective to compare performance against 
+Build a RandomForest model on a sample dataset with an objective to compare performance against 
 """
 
 import pandas as pd
